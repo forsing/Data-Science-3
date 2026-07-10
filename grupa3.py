@@ -212,5 +212,5 @@ Kola: 4648 | seed=39 | 7/39 | grupa3
 
 === pravilo → next (grupa 3) ===
 rule: {'last_draw': [3, 7, 12, 13, 18, 24, 29], 'mean_carry': 1.234, 'target_sum': 140.43}
-next: [2, 7, 9, 21, 25, 38, 39]
+next: [2, x, 9, y, 25, z, 39]
 """
